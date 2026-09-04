@@ -1,0 +1,12 @@
+.git
+.idea
+.vscode
+target
+tmp
+*.iml
+*.log
+HELP.md
+yu-ai-agent-frontend/node_modules
+yu-ai-agent-frontend/dist
+yu-ai-agent-frontend/.env*
+yu-image-search-mcp-server/target
